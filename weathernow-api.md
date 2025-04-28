@@ -1,4 +1,4 @@
-# WeatherNow API Documentation
+# WeatherNow API Documentation (fictional)
 
 ## Overview
 
